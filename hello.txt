@@ -1,5 +1,5 @@
-hello Gi!t  2222222222222222
-hello world 33333333333
+hello Gi!t  2222
+hello world 333333
 hello zhangsan
 hello lisi
 hello wangwu
